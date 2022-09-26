@@ -7,8 +7,8 @@
 #### Team Members are: Rajesh kumar, Kunika Gupta, Prayagraj Dubey, Shivank Dueby and Parul Sharma
 
 #### Links:  
-Project Presentation: [Slideshow](https://docs.google.com/presentation/d/10LybQLwrtEitZHGzB57hcOV9-ynhtoTBfx4cR-1XwD4/edit?usp=sharing](https://drive.google.com/drive/folders/1cyTavE8S4eM4wIXfppyGOZpPcnR7_MBy)
-Dataset: [Global_Terrorism](https://drive.google.com/file/d/1XJL7kRPTzH2vPX1Ye4pbQONTXPDdrUbG/view?usp=sharing](https://drive.google.com/drive/folders/1cyTavE8S4eM4wIXfppyGOZpPcnR7_MBy)
+Project Presentation: [Slideshow](https://drive.google.com/file/d/1HFd9jKPJBAGv-kOcDQg7HAqhuAMd0T4k/view?usp=sharing)
+Dataset: [Bike Sharing Demand Prediction](https://drive.google.com/file/d/1A81TMIl0oe2G3SQ8zpT0AFJJtsZ26KAj/view?usp=sharing)
 
 ## Content:
 The data are downloaded from the South Korean website named SEOUL OPEN DATA PLAZA. One-year data are used in this research. The period of the dataset is 365 days (12 months) from December 2017 to November 2018. From the data, the count of the rental bikes rented at each hour is calculated.
