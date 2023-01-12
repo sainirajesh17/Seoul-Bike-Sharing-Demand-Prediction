@@ -1,19 +1,22 @@
-# Seoul-Bike-Sharing-Demand-Prediction
 
-##   This project will be explored over the previous data in order to predict the number of bikes that can be rented per hour by the company. So that customers can get the best experience without any delays. We will build different regression models and check which proves to be the best for the deployment.
+
+<p align="center"> 
+</p>
+<h1 align="center"> Seoul Bike Sharing Demand Prediction </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
+<p>In this project I explored over the previous data in order to predict the number of bikes that can be rented per hour by the company. So that customers can get the best experience without any delays. Also build different regression models and check which proves to be the best for the deployment.</p>
 
 #### Tags: Regression, Python, Machine Learning, Data Science 
-
-#### Team Members are: Rajesh kumar, Kunika Gupta, Prayagraj Dubey, Shivank Dueby and Parul Sharma
 
 #### Links:  
 Project Presentation: [Slideshow](https://drive.google.com/file/d/1HFd9jKPJBAGv-kOcDQg7HAqhuAMd0T4k/view?usp=sharing)
 Dataset: [Bike Sharing Demand Prediction](https://drive.google.com/file/d/1A81TMIl0oe2G3SQ8zpT0AFJJtsZ26KAj/view?usp=sharing)
 
-## Content:
+## :floppy_disk: Content:
 The data are downloaded from the South Korean website named SEOUL OPEN DATA PLAZA. One-year data are used in this research. The period of the dataset is 365 days (12 months) from December 2017 to November 2018. From the data, the count of the rental bikes rented at each hour is calculated.
 
-<h2><b>Steps involved doing this project</b></h2>
+<h2><b> :book: Steps involved doing this project</b></h2>
 
 <h3><b>Loading and discovering data:</b></h3> Here, we need to load our data from the external source, which in this case is uploaded to the drive. The data is in the format of the CSV (Comma Separated Values) file.
 
@@ -38,7 +41,7 @@ The data are downloaded from the South Korean website named SEOUL OPEN DATA PLAZ
 
 <h3><b>Observations according to the outputs of the graph visualizations.</b></h3>
 
-## <b>Conclusion</b>
+## <b> :clipboard: Conclusion</b>
 Comparison of RMSE values for Test Data as lower the RMSE better the model performance:
 
 LinearRegressor RMSE: 7.487
@@ -53,4 +56,19 @@ GradientBoostingRegressor RMSE: 4.824
 • XGBoost Regressor and Gradient Boost Regressor give the highest R2 score of 98% and 96% respectively for the Train dataset and 91% for both regressor's Test dataset.So, We can deploy these models.
 • The Temperature, Hour & Functioning Day are the most important features that positively drive the total rented bikes count.
 • In conclusion, the demand prediction for the given Seoul bike sharing dataset can be accurately predicted using XGBoost Regressor and Gradient Boost Regressor.
+
+<!-- CREDITS -->
+
+<h2 id="credits"> :scroll: Credits</h2>
+
+Rajesh Kumar | Data Science Enthusiast | Python | MySql | Tablaeu | Excel | Machine Learning
+
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/17saini91/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/kunikagupta27](https://github.com/sainirajesh17))
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@17saini91/data-science-for-politics-2aabcb1acb7c)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1KSyVSbJWxSf9hwc4ip8m4NrDSEsNYHv8/view?usp=share_link)
 
